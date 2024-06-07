@@ -23,4 +23,5 @@ Decision trees or random forests might be better suited for more complex terrain
 Here are some resources to learn more:
 
 Kaggle examples of Logistic Regression for Hill/Valley Prediction: [Search hill and valley prediction logistic regression ON Kaggle kaggle.com]
-Final project for My Artifical and Machine learning Internship
+
+# Final project for My Artifical and Machine learning Internship
