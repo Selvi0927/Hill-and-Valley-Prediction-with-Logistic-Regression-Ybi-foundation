@@ -1,6 +1,6 @@
 # Hill-and-Valley-Prediction-with-Logistic-Regression-Ybi Foundation
-# Steps 
-# Logistic regression can be a reasonable choice for predicting hills and valleys, but it's important to understand its limitations. Here's a breakdown:
+# Steps:
+Logistic regression can be a reasonable choice for predicting hills and valleys, but it's important to understand its limitations. Here's a breakdown:
 
 # The Task:
 You want to build a model that can classify points on a graph as hills (upward bumps) or valleys (downward dips).
